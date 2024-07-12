@@ -4,4 +4,4 @@ map("n", "<leader>pv", vim.cmd.Ex)
 
 map("v", "J", ":m '>+1<CR>gv=gv'")
 map("v", "K", ":m '>-1<CR>gv=gv'")
-
+map("t", "<Esc>", "<C-\\><C-n>")
