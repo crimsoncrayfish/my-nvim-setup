@@ -7,4 +7,5 @@ mostly a copy of ThePrimeAgen's setup with some small changes:
 ```
 winget install zig.zig
 go install -v github.com/incu6us/goimports-reviser/v3@latest
+go install github.com/go-delve/delve/cmd/dlv@latest
 ```
